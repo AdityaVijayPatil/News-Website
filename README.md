@@ -1,4 +1,4 @@
-`**Project Name: News Website**`
+# Project Name: News Website
 
 # React + Vite
 
