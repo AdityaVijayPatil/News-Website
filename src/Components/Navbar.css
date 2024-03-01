@@ -1,0 +1,17 @@
+.container-fluid{
+    color: black;
+    font-weight: bold;
+    font-size: 15pt;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.nav-item{
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    margin-right: 30px;
+}
+.navbar-text{
+    color: red;
+}
